@@ -1,3 +1,3 @@
 # Demo-MVC
 
-Deze demo toont wat hoe je het MVC design pattern implementeert in code.
+This demo shows how to implement the MVC design pattern in code.
